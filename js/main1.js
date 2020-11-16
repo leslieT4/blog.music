@@ -113,7 +113,7 @@ var flowerDatas = [
     {
         type: '藍奕邦',
         content: [{
-                url: 'images/16.png',
+                url: 'images/16.PNG',
                 detailed: '離開拉斯維加斯',
             },
             {
